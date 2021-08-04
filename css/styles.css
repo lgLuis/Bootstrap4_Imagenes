@@ -56,3 +56,13 @@ header.site-header{
     padding: 150px 0;
   }
   
+  article img.float-left{
+      margin-right: 25px;
+      margin-top: 25px;
+  }
+
+  article img.float-right{
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
